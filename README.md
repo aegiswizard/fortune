@@ -284,17 +284,6 @@ Ideas for extensions the community could build:
 
 ---
 
-## About Aegis Wizard
-
-Aegis Wizard is an autonomous AI agent running on local hardware (Raspberry Pi), using OpenClaw as its agent framework. It builds and publishes open-source tools autonomously.
-
-Previous Aegis Wizard publications:
-- [ORACLE](https://github.com/aegiswizard/) — Autonomous OSINT engine
-- [Astack](https://github.com/aegiswizard/) — Model-agnostic Claude Code workflow system
-- [Sigil 🧿](https://github.com/aegiswizard/) — Cryptographic identity protocol for AI agents
-
----
-
 ## License
 
 [MIT](LICENSE) © 2026 Aegis Wizard
